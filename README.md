@@ -203,5 +203,5 @@ This README exists to guide you.
 If you are contributing, simply follow each step carefully, use the provided template, and create a Pull Request.  
 Your contribution will help thousands of learners and developers in the Path4DSA community.
 
-Thank you for contributing.
+Thank you for contributing with ❤️ Sai Krishna
 
